@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
+Disallow: /MangaAtlasjpjp.github.io/admin/
 
-Sitemap: https://mangaatlas.github.io/sitemap.xml
+Sitemap: https://mangaatlas.github.io/MangaAtlasjpjp.github.io/sitemap.xml
